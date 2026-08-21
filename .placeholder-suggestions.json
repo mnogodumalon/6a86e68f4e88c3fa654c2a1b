@@ -1,0 +1,33 @@
+{
+  "MitgliedsbeitraegeDialog.tsx": {
+    "betrag": "z. B. 50,00",
+    "zahlungsdatum": "Wann wurde bezahlt?",
+    "mitglieder": "Welche Mitglieder?",
+    "zahlungsstatus": "z. B. Offen, Bezahlt"
+  },
+  "MitgliederDialog.tsx": {
+    "vorname": "z. B. Max",
+    "nachname": "z. B. Mustermann",
+    "email": "z. B. max@example.com",
+    "beitrittsdatum": "Wann beigetreten?",
+    "mitgliedsstatus": "z. B. Aktiv, Passiv",
+    "telefonnummer": "z. B. 0049 30 12345678"
+  },
+  "GeraeteverwaltungDialog.tsx": {
+    "geraetename": "z. B. Beamer, Flipchart",
+    "anschaffungsdatum": "Wann angeschafft?",
+    "zustand": "z. B. Neu, Gut"
+  },
+  "RaeumeDialog.tsx": {
+    "raumname": "z. B. Konferenzsaal A",
+    "kapazitaet": "z. B. 20",
+    "ausstattung": "Beamer, Whiteboard, Tische...",
+    "stockwerk": "z. B. 1, EG, 2. OG"
+  },
+  "VeranstaltungenDialog.tsx": {
+    "titel": "z. B. Mitgliederversammlung",
+    "datum": "Wann findet es statt?",
+    "beschreibung": "Agenda, Inhalte, Besonderheiten...",
+    "raum": "Welcher Raum?"
+  }
+}

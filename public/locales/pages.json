@@ -1,0 +1,35 @@
+{
+  "pages": {
+    "en": {
+      "Aktive Mitglieder": "Active Members",
+      "Alle Beiträge sind bezahlt.": "All dues are paid.",
+      "Als bezahlt markieren": "Mark as paid",
+      "Beitrag erfassen": "Record due",
+      "Beiträge offen": "Dues outstanding",
+      "Bezahlt": "Paid",
+      "Diese Woche: {0} — {1} {2}.": "This Week: {0} — {1} {2}.",
+      "Erste Veranstaltung anlegen": "Create first event",
+      "Erstes Mitglied aufnehmen": "Add first member",
+      "Heute: {0} — {1} {2}.": "Today: {0} — {1} {2}.",
+      "Lege deine erste Veranstaltung oder dein erstes Mitglied an.": "Create your first event or your first member.",
+      "Mitglied hinzufügen": "Add member",
+      "Mitglieder": "Members",
+      "Neue Mitglieder (30 Tage)": "New Members (30 days)",
+      "Noch keine Mitglieder erfasst.": "No members recorded yet.",
+      "Offen": "Open",
+      "Offene Beiträge": "Outstanding Dues",
+      "Ohne Name": "No name",
+      "Ohne Titel": "Untitled",
+      "Unbekanntes Mitglied": "Unknown Member",
+      "Veranstaltung": "Event",
+      "Veranstaltungen diese Woche": "Events this week",
+      "Willkommen im Vereinsmanagement": "Welcome to Club Management",
+      "aktive Mitglieder": "active members",
+      "diese Woche": "this week",
+      "seit": "since",
+      "{0} — als bezahlt markiert": "{0} — marked as paid",
+      "{0} — verschoben": "{0} — postponed"
+    }
+  },
+  "v": 1
+}

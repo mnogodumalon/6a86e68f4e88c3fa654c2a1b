@@ -1,0 +1,34 @@
+{
+  "entities": {
+    "Mitgliedsbeiträge": {
+      "placeholders_set": 4,
+      "defaults_keys": ["zahlungsdatum", "zahlungsstatus"],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten-Verwaltung ohne berechenbare Geldbeträge oder Aggregationen. Multipleapplookup auf Mitglieder hat keine numerischen Zielfelder (nur stammdaten wie name, email, beitrittsdatum)."
+    },
+    "Mitglieder": {
+      "placeholders_set": 6,
+      "defaults_keys": ["beitrittsdatum", "mitgliedsstatus"],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten-Verwaltung ohne berechenbare Logik. Nur Text-, Email- und Datumfelder; keine Preise, Mengen oder Abhängigkeiten."
+    },
+    "Geräteverwaltung": {
+      "placeholders_set": 3,
+      "defaults_keys": ["anschaffungsdatum", "zustand"],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten-Verwaltung von Geräten. Nur Text- und Datumfelder; keine numerischen Berechnungen oder Aggregationen nötig."
+    },
+    "Räume": {
+      "placeholders_set": 4,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten-Verwaltung von Räumlichkeiten. Nur Text- und Datumfelder; keine berechenbaren Abhängigkeiten. Kapazität und Stockwerk sind domänenspezifisch und nicht standardmäßig vorbelegt."
+    },
+    "Veranstaltungen": {
+      "placeholders_set": 4,
+      "defaults_keys": ["datum"],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten-Verwaltung von Veranstaltungen. Ein einzelnes Datumfeld (kein Paar für Dauer); applookup auf Räume hat keine numerischen Zielfelder. Keine berechenbaren Logik nötig."
+    }
+  }
+}
